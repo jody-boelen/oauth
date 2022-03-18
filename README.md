@@ -25,4 +25,5 @@ The OAuth module allows you to easily secure your published REST services (or OD
    - Change SUB_Client_FindOrCreate to point towards the correct API user userrole in your app (WILL PROBABLY GIVE AN ERROR UPON DOWNLOADING THE MODULE, due to a non-present user role).
 6. After deploying the app, add your authorization server via the snippet, you can do this manually or you can simply use the well-known url to fill in all the details.
 7. You are ready to use the module.
+8. (Exclude the example PRS as this serves no further use)
 
