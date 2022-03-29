@@ -13,6 +13,7 @@ The OAuth module allows you to easily secure your published REST services (or OD
 
 - Mendix 8.12.7 or higher
 - Community Commons Module
+- Encryption Module
 
 ## Configuration
 
